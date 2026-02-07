@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-DyHmJYok.js";const o={};function l(r,c){return a(),e("div")}const s=t(o,[["render",l],["__file","1.html.vue"]]),_=JSON.parse('{"path":"/tags/AlphaFold/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,_ as data};
